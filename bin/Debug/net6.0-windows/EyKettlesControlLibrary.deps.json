@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EyKettlesControlLibrary/0.0.25": {
+        "runtime": {
+          "EyKettlesControlLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EyKettlesControlLibrary/0.0.25": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

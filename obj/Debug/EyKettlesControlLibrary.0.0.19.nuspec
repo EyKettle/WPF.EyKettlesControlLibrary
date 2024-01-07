@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EyKettlesControlLibrary</id>
+    <version>0.0.19</version>
+    <authors>EyKettle</authors>
+    <readme>Readme.md</readme>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="G:\User\Documents\Visual Studio\C#\Controls\EyKettlesControlLibrary\bin\Debug\net6.0-windows\EyKettlesControlLibrary.dll" target="lib\net6.0-windows7.0\EyKettlesControlLibrary.dll" />
+    <file src="G:\User\Documents\Visual Studio\C#\Controls\EyKettlesControlLibrary\Readme.md" target="\Readme.md" />
+  </files>
+</package>

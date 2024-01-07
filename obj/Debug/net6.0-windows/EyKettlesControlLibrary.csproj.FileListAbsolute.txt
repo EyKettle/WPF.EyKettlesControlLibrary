@@ -1,0 +1,13 @@
+G:\User\Documents\Visual Studio\C#\Controls\EyKettlesControlLibrary\bin\Debug\net6.0-windows\EyKettlesControlLibrary.deps.json
+G:\User\Documents\Visual Studio\C#\Controls\EyKettlesControlLibrary\bin\Debug\net6.0-windows\EyKettlesControlLibrary.dll
+G:\User\Documents\Visual Studio\C#\Controls\EyKettlesControlLibrary\bin\Debug\net6.0-windows\EyKettlesControlLibrary.pdb
+G:\User\Documents\Visual Studio\C#\Controls\EyKettlesControlLibrary\obj\Debug\net6.0-windows\EyKettlesControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\User\Documents\Visual Studio\C#\Controls\EyKettlesControlLibrary\obj\Debug\net6.0-windows\EyKettlesControlLibrary.AssemblyInfoInputs.cache
+G:\User\Documents\Visual Studio\C#\Controls\EyKettlesControlLibrary\obj\Debug\net6.0-windows\EyKettlesControlLibrary.AssemblyInfo.cs
+G:\User\Documents\Visual Studio\C#\Controls\EyKettlesControlLibrary\obj\Debug\net6.0-windows\EyKettlesControlLibrary.csproj.CoreCompileInputs.cache
+G:\User\Documents\Visual Studio\C#\Controls\EyKettlesControlLibrary\obj\Debug\net6.0-windows\EyKettlesControlLibrary.dll
+G:\User\Documents\Visual Studio\C#\Controls\EyKettlesControlLibrary\obj\Debug\net6.0-windows\refint\EyKettlesControlLibrary.dll
+G:\User\Documents\Visual Studio\C#\Controls\EyKettlesControlLibrary\obj\Debug\net6.0-windows\EyKettlesControlLibrary.pdb
+G:\User\Documents\Visual Studio\C#\Controls\EyKettlesControlLibrary\obj\Debug\net6.0-windows\ref\EyKettlesControlLibrary.dll
+G:\User\Documents\Visual Studio\C#\Controls\EyKettlesControlLibrary\obj\Debug\net6.0-windows\EyKettlesControlLibrary.Properties.Resources.resources
+G:\User\Documents\Visual Studio\C#\Controls\EyKettlesControlLibrary\obj\Debug\net6.0-windows\EyKettlesControlLibrary.csproj.GenerateResource.cache
