@@ -1,7 +1,7 @@
+# WPF.EyKettlesControlLibrary
+
 *ControlLib like Material Design.*  
 *Now, just a custom* Button *and a custom* TextBox.
-
-GitHub in later.
 
 ---
 
